@@ -1,1 +1,1 @@
-Hi, I’m <b>@Kacper-Borys</b>. I’m interested in <b>automation, computer vision</b> and <b>machine learning</b>.<br>I’m currently getting a grasp of deep learning in Python which is why there's nothing here yet ; )
+Hi, I’m <b>@Kacper-Borys</b>. I’m interested in <b>automation, computer vision</b> and <b>machine learning</b>.<br>I’m currently focusing on Deep Learning and will be uploading my projects as they hopefully get more and more interesting and/or useful.
